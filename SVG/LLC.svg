@@ -41,16 +41,16 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1053"
+     inkscape:window-height="1043"
      id="namedview4228"
      showgrid="false"
      inkscape:zoom="0.38742055"
      inkscape:cx="1169.6449"
      inkscape:cy="233.235"
-     inkscape:window-x="1366"
-     inkscape:window-y="27"
+     inkscape:window-x="3286"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g11870-1-3"
+     inkscape:current-layer="svg4136"
      inkscape:snap-center="false"
      inkscape:snap-object-midpoints="true"
      inkscape:object-paths="false"
@@ -1215,7 +1215,7 @@ circle {stroke-linecap:round; stroke-linejoin:round}
          height="116.0524"
          width="92.922279"
          id="rect26940" /></flowRegion><flowPara
-       id="flowPara26942"></flowPara></flowRoot>  <flowRoot
+       id="flowPara26942" /></flowRoot>  <flowRoot
      style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
      id="flowRoot26944"
      xml:space="preserve"
@@ -1226,7 +1226,7 @@ circle {stroke-linecap:round; stroke-linejoin:round}
          height="303.52597"
          width="225.90274"
          id="rect26948" /></flowRegion><flowPara
-       id="flowPara26950"></flowPara></flowRoot>  <flowRoot
+       id="flowPara26950" /></flowRoot>  <flowRoot
      style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
      id="flowRoot26928-9"
      xml:space="preserve"
@@ -1238,7 +1238,7 @@ circle {stroke-linecap:round; stroke-linejoin:round}
          width="131.41194"
          id="rect26932-0" /></flowRegion><flowPara
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:93.33333588px;font-family:STIX;-inkscape-font-specification:STIX"
-       id="flowPara26934-6">(b)</flowPara></flowRoot>  <g
+       id="flowPara26934-6">(б)</flowPara></flowRoot>  <g
      id="g27256"
      style="fill:#1f77b4;fill-opacity:1"
      transform="translate(260.00001,2.9214717)">
