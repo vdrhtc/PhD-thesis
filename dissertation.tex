@@ -1,5 +1,6 @@
-\documentclass[14pt, a4paper]{extreport}
+ \documentclass[14pt, a4paper]{extreport}
     \usepackage[mathletters]{ucs} % Extended unicode (utf-8) support
+    \usepackage{cmap}
     \usepackage[X2,T2A]{fontenc}
     \usepackage[utf8x]{inputenc} % Allow utf-8 characters in the tex document
 	\usepackage[left=25mm, right=10mm, top=20mm, bottom=20mm]{geometry}
@@ -107,16 +108,13 @@
 \par 
 \vspace*{-2cm}
 \begin{center}
-Министерство образования и науки Российской Федерации\\
-Федеральное государственное автономное образовательное учреждение высшего\\ 
-профессионального образования \\
-<<Московский физико-технический институт (государственный университет)>> 
+Федеральное государственное автономное образовательное учреждение высшего образования \\
+<<Московский физико-технический институт (национальный исследовательский университет)>> 
 \end{center}
 
 \vspace*{0.2cm}
 \begin{flushright}
-На правах рукописи\\
-УДК 539.12
+На правах рукописи
 \end{flushright}
 
 \vfill
@@ -805,7 +803,7 @@ x_i = \frac{\partial \mathcal{L}_p}{\partial \dot p_i}.
 
 Амбегаокару и Баратову удалось вывести строгое выражение для изменения числа частиц на одном из островов:
 \begin{equation}
-	I = e \langle \dot N_l \rangle =  \frac{i}{\hbar}\langle [H, N_l] \rangle = I_c \sin(\alpha + \alpha'),
+	I = e \langle \dot{\hat{N_l}} \rangle =  \frac{i}{\hbar}\langle [\hat{\mathcal{H}}, \hat N_l] \rangle = I_c \sin(\alpha + \alpha'),
 \end{equation}
 где $\alpha'$ -- это вспомогательный угол, аргумент комплексных чисел, использовавшихся в расчете, смысл $\alpha$ будет раскрыт ниже, а 
 \begin{equation}
