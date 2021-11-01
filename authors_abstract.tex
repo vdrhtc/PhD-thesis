@@ -2,7 +2,7 @@
     \usepackage[mathletters]{ucs} % Extended unicode (utf-8) support
     \usepackage{cmap}
     \usepackage[X2,T2A]{fontenc}
-    \usepackage[utf8]{inputenc} % Allow utf-8 characters in the tex document
+    \usepackage[utf8]{inputenc} % Allow utf-8 characters in the tex document, utf8x ruins multibib!
 	\usepackage[left=25mm, right=25mm, top=20mm, bottom=20mm]{geometry}
 	\usepackage[hyphens]{url}
    	\usepackage[hidelinks, linktoc=all,russian]{hyperref}
@@ -83,7 +83,7 @@
 \graphicspath{{Pictures/}}
 
 \newcites{A}{Основные публикации по теме диссертации}
-
+%make sure to run bibtex build/A.aux to get the bbl file
 
 \begin{document}
 
